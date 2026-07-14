@@ -1,4 +1,4 @@
-# Data-Challenges
+# DataDNA Challenges
 
 On this challenge, we focused on automobile insurance policies.
 
