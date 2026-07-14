@@ -6,6 +6,6 @@ I focused on customer profiles before turning to the type of vehicles they drive
 
 My entry was recognised and is one of the runners-up in the challenge.
 
-![Distrisys Dimensional Matrix](https://raw.githubusercontent.com/thomasdaille/Image-Library/master/DimensionalMatrix.PNG)
+![Distrisys Dimensional Matrix](https://raw.githubusercontent.com/thomasdaille/Image-Library/master/DataDNA_submission_Car_Insurance_Policies.png)
 
 More challenges : https://datadna.onyxdata.co.uk/challenges/
