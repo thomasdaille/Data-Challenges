@@ -6,8 +6,10 @@ I focused on customer profiles before turning to the type of vehicles they drive
 
 My entry was recognised and is one of the runners-up in the challenge.
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/thomasdaille/Image-Library/master/DataDNA_submission_Car_Insurance_Policies.png" alt="DataDNA Power BI submission">
 </p>
+
 
 More challenges : https://datadna.onyxdata.co.uk/challenges/
